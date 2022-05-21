@@ -4,5 +4,5 @@ urls="http://www2.projects.science.uu.nl/shakefive/data/ShakeFive2.background.ta
 ## let us grab it ##
 for u in $urls
 do
-   curl "$u" -L -o "../data/$u" 
+   wget "$u" -P "../data/" 
 done
