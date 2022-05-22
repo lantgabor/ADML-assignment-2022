@@ -1,0 +1,4 @@
+http://www2.projects.science.uu.nl/shakefive/data/ShakeFive2.background.tar.bz2
+http://www2.projects.science.uu.nl/shakefive/data/ShakeFive2.metadata.tar.bz2
+http://www2.projects.science.uu.nl/shakefive/data/ShakeFive2.videos.tar
+http://www2.projects.science.uu.nl/shakefive/data/ShakeFive2.code.tar.gz
