@@ -2,3 +2,6 @@ http://www2.projects.science.uu.nl/shakefive/data/ShakeFive2.background.tar.bz2
 http://www2.projects.science.uu.nl/shakefive/data/ShakeFive2.metadata.tar.bz2
 http://www2.projects.science.uu.nl/shakefive/data/ShakeFive2.videos.tar
 http://www2.projects.science.uu.nl/shakefive/data/ShakeFive2.code.tar.gz
+http://www.robots.ox.ac.uk/~alonso/data/tv_human_interactions_videos.tar.gz
+http://www.robots.ox.ac.uk/~alonso/data/tv_human_interactions_annotations.tar.gz
+http://www.robots.ox.ac.uk/~alonso/data/readme.txt
