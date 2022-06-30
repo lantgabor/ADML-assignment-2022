@@ -48,5 +48,6 @@ def download_data(urls, path):
         extract_data(path, filename)
 
 
-download_data("./helpers/shakefive2.txt", "./data/shakefive2")
-download_data("./helpers/tv_human.txt", "./data/tv_human")
+# download_data("./helpers/shakefive2.txt", "./data/shakefive2")
+# download_data("./helpers/tv_human.txt", "./data/tv_human")
+download_data("./helpers/anet.txt", "./data/anet")
